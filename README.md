@@ -1,5 +1,4 @@
 # audiobook-merge
-Python script to copy audiobook files from multiple subfolders, paste them in a new directory, and rename them sequentially.
 
 If you're an audiobook enthusiast, you'll no doubt find that some of the audiobooks you've legally digitized are split into multiple 
 "disk" folders within the parent directory. 
